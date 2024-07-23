@@ -49,7 +49,7 @@ const FAQs = () => {
 
               <div className="px-4 pb-5 sm:px-6 sm:pb-6">
                 <p className="text-gray-500">
-                  Actually, everyone can use our template for their business purposes, from SaaS companies, software companies, company profiles, and you can use this template for your personal website or project that you’re working on right now. You can use it on your project easily by adjusting it to the subject of the project that you’re working on right now.
+                  {"Actually, everyone can use our template for their business purposes, from SaaS companies, software companies, company profiles, and you can use this template for your personal website or project that you’re working on right now. You can use it on your project easily by adjusting it to the subject of the project that you’re working on right now."}
                 </p>
               </div>
             </div>

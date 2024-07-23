@@ -6,7 +6,7 @@ import Review from "@/components/Review"
 import  Main from "@/components/Main";
 
 export default function Home() {
-  return (
+  return(
     <div>
       <Header />
       <Main/>
@@ -14,6 +14,6 @@ export default function Home() {
       <Review/>
       <FAQs/>
       <Footer/>
-    </div>
-  );
+      </div>
+    );
 }
