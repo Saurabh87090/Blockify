@@ -47,9 +47,9 @@ const Features = () => {
           <hr className="bg-gray-600 my-5 w-[360px] lg:w-[750px]" />
 
           <p className="text-[#737373] text-[16px] sm:text-[20px]  lg:text-left">
-            Gain valuable insights into your operations. Your brand is more than just a <br />
-            logo; it's the essence of your business. We create compelling brand identities <br />
-            that tell your unique story and resonate with your target audience.
+            {"Gain valuable insights into your operations. Your brand is more than just a"} <br />
+            {"logo; it's the essence of your business. We create compelling brand identities"} <br />
+         {"that tell your unique story and resonate with your target audience."}
           </p>
 
           <div className="flex  items-center lg:flex-row lg:items-center my-8">
@@ -62,9 +62,9 @@ const Features = () => {
           <hr className="bg-gray-600 my-5 w-[360px] lg:w-[750px] " />
 
           <p className="text-[#737373] text-[16px] sm:text-[20px] my-5  lg:text-left">
-            Gain valuable insights into your operations. Your brand is more than just a <br />
-            logo; it's the essence of your business. We create compelling brand identities <br />
-            that tell your unique story and resonate with your target audience.
+            {"Gain valuable insights into your operations. Your brand is more than just a"} <br />
+            {"logo; it's the essence of your business. We create compelling brand identities"} <br />
+            {"that tell your unique story and resonate with your target audience."}
           </p>
           <hr className="bg-gray-600 my-5 w-[360px] lg:w-[750px]" />
         </div>
