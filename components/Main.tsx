@@ -6,7 +6,7 @@ const Main = () => {
     <div>
       <main className="">
         <div className="relative bg-[#080D28] h-[940px] md:h-[960px] sm:h-[1280px]">
-          <div className="lg:float-right lg:mt-4 flex justify-center lg:block">
+          <div className="lg:float-right flex justify-center lg:block">
             <Image className="w-[360px] ml-[0px]  2xl:w-auto mt-0 lg:w-[480px] mt-[140px]" src="Dekstop.svg" alt="" />
           </div>
           <div className="flex-col pt-10 lg:pt-[220px] pl-4 lg:pl-[120px] text-center lg:text-left">
