@@ -8,12 +8,13 @@ const FAQs = () => {
           <div className="max-w-5xl mx-auto text-center">
             <a
               href="#"
-              title=""
+              title="FAQs"
               className="items-center justify-center px-9 py-2 text-base font-semibold text-[#1F5B3E] transition-all duration-200 bg-[#C5FFE3] border border-transparent rounded-md lg:inline-flex hover:bg-[#C5FFE3] focus:bg-[#C5FFE3]"
               role="button"
             >
               FAQs
             </a>
+            
             <h2 className="text-2xl mt-6 font-bold leading-tight text-black sm:text-2xl lg:text-[40px]">
               Common question in your mind
             </h2>
