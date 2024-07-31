@@ -19,19 +19,19 @@ const Footer = () => {
 
                 <ul className="mt-6 space-y-5">
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> About </a>
+                        <a href="#" title="about" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> About </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Features </a>
+                        <a href="#" title="features" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Features </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Works </a>
+                        <a href="#" title="works" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Works </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Career </a>
+                        <a href="#" title="carerr" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Career </a>
                     </li>
                 </ul>
             </div>
@@ -41,19 +41,19 @@ const Footer = () => {
 
                 <ul className="mt-6 space-y-4">
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Customer Support </a>
+                        <a href="#" title="support" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Customer Support </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Delivery Details </a>
+                        <a href="#" title="detail" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Delivery Details </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Terms & Conditions </a>
+                        <a href="#" title="condition" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Terms & Conditions </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Privacy Policy </a>
+                        <a href="#" title="privacy" className="flex text-sm text-[#6B7280] transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Privacy Policy </a>
                     </li>
                 </ul>
             </div>
