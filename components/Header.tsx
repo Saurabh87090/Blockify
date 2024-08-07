@@ -25,10 +25,10 @@ const Header = () => {
               </div>
 
               <div className="hidden lg:flex lg:items-center lg:space-x-10">
-                <a href="#" title="" className="text-base font-light text-white hover:text-[20px]"> Products </a>
-                <a href="#" title="" className="text-base font-light text-white hover:text-[20px]"> Pricings </a>
-                <a href="#" title="" className="text-base font-light text-white hover:text-[20px]"> Company </a>
-                <a href="#" title="" className="text-base font-light text-white hover:text-[20px]"> Resource </a>
+                <a href="#" title="products" className="text-base font-light text-white hover:text-[20px]"> Products </a>
+                <a href="#" title="pricing" className="text-base font-light text-white hover:text-[20px]"> Pricings </a>
+                <a href="#" title="company" className="text-base font-light text-white hover:text-[20px]"> Company </a>
+                <a href="#" title="Resource" className="text-base font-light text-white hover:text-[20px]"> Resource </a>
                 
               </div>
 
