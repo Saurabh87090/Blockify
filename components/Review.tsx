@@ -23,9 +23,11 @@ const Review = () => {
               />
             ))}
           </div>
+          
           <div className='flex items-center justify-center my-[40px]'>
             <img src="frame.svg" alt="Frame" />
           </div>
+          
           <div className='grid grid-cols-2 gap-8 p-4 sm:grid-cols-3 lg:grid-cols-6 lg:mt-[60px] ml-8'>
             <img className='' src="shopify.svg" alt="Shopify" />
             <img className='lg: mt-5' src="amazon.svg" alt="Amazon" />
