@@ -2,6 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
+    
      <div>
   <section className="py-10 bg-[#080D28] mt-[80px] sm:pt-16 lg:pt-24">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
