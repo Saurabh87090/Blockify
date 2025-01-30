@@ -3,6 +3,7 @@ import React from 'react';
 
 const Main = () => {
   return (
+    
     <div>
       <main className="">
         <div className="relative bg-[#080D28] h-[940px] md:h-[960px] sm:h-[1280px]">
