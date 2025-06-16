@@ -5,6 +5,7 @@ import { cardData } from "@/app/data/card";
 
 const Review = () => {
   return (
+    
     <div className='bg-slate-200 h-[1755px] lg:h-[950px] md:h-[1351px]'>
       <div className='mx-4 sm:mx-8 md:mx-16 lg:mx-[120px]'>
         <a href="#" title="" className=" lg:inline-flex items-center justify-center px-9 py-2 text-base font-semibold text-[#1F5B3E] transition-all duration-200 bg-[#C5FFE3] border border-transparent rounded-md mt-[120px]" role="button">TESTIMONIALS</a>
