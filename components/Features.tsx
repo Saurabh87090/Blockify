@@ -5,6 +5,7 @@ const Features = () => {
     <div>
       <div>
         
+        
         {/* Brand Images */}
         <div className="  grid grid-cols-2 gap-8 p-4 sm:grid-cols-3 lg:grid-cols-6 lg:mt-[60px]">
           <img className="mx-auto mt-4" src="shopify.svg" alt="shopify" />
